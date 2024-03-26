@@ -63,7 +63,7 @@
     "iconv-lite": "^0.6.2",
     "iso-639-1": "^2.1.5",
     "joplin-turndown-plugin-gfm": "^1.0.12",
-    "katex": "^0.12.0",
+    "katex": "^0.16.10",
     "keyboard-layout": "^2.0.17",
     "keytar": "^7.3.0",
     "mermaid": "^8.8.4",
