@@ -44,7 +44,7 @@
     "command-exists": "^1.2.9",
     "dayjs": "^1.9.7",
     "dom-autoscroller": "^2.3.4",
-    "dompurify": "^2.2.6",
+    "dompurify": "^2.4.9",
     "dragula": "^3.7.3",
     "electron-is-accelerator": "^0.2.0",
     "electron-log": "^4.3.1",
